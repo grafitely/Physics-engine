@@ -11,4 +11,4 @@ Started learning c++.
 <h3>Day 2 (Sunday 20th Feb 2023)</h3>
 
 Changed some more gpg config stuff to get a verified mark next to my commits because I thought it looked cool.
-Deleted and remade the repo due to some issues with commit history stuff,
+Deleted and remade the repo due to some issues with commit history stuff, (test commit for new repo)
