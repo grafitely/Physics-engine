@@ -12,3 +12,4 @@ Started learning c++.
 
 Changed some more gpg config stuff to get a verified mark next to my commits because I thought it looked cool.
 Deleted and remade the repo due to some issues with commit history stuff, (test commit for new repo)
+installed the c++ compiler MSYS2 Mingw-w64 after a couple hours of effort and made a simple hello world program to get started with c++
