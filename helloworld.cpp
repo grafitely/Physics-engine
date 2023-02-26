@@ -2,6 +2,7 @@
 using namespace std;
 
 string name;
+
 int main() {
   cout << "Welcome what is your name?";
   cin >> name;
