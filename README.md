@@ -18,3 +18,7 @@ installed the c++ compiler MSYS2 Mingw-w64 after a couple hours of effort and ma
 
 Continued to read up on c++ using the w3schools c++ tutorial (https://www.w3schools.com/cpp/default.asp).
 nothing much more to development today.
+
+<h3>Day 4 (Sunday 26th Feb 2023)</h3>
+
+Haven't been able to work on the project for the last week but gonna restart working on it now, gonna get back to learning c++ with the w3schools tutorial.
