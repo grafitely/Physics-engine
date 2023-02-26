@@ -1,7 +1,9 @@
 #include <iostream>
 using namespace std;
 
+string name;
 int main() {
-  cout << "Hello World!";
+  cin >> name;
+  cout << "Hello World!, " + name;
   return 0;
 }
