@@ -5,7 +5,7 @@ string name;
 string firstletter;
 
 int main() {
-  cout << "Welcome what is your name?";
+  cout << "Welcome what is your name?\n";
   getline (cin, name);
   firstletter = name[0];
   cout << "Hello There!, " + name + ", The first letter of your name is \"" + firstletter + "\"";
